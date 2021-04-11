@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 150px;
+  
+  background-color: white;
+    background-size: 100% 100%;
+   
+  background-position: center bottom;
+    background-repeat: no-repeat;
+    background-image: url("https://static.todamateria.com.br/upload/ad/iv/adivinhas-cke.jpg");
+  
+}
+  
+  
+.container {
+  
+  
+  text-align: center;
+  padding: 20px;
+  height: 500px;
+}
+  
+  .page-title {
+    color: black;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: black;
+    font-size: 18px;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+div#res {
+  
+  margin-top: 10px;
+     width: 350px;
+     height: 100px;
+     margin-left: auto;
+     margin-right: auto;
+     color: black;
+     
+     background-color: white;
+     border: 1px solid cyan;
+     border-radius: 12px;
+}
